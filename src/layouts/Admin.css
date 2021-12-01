@@ -1,0 +1,14 @@
+.footer {
+  position: relative;
+  margin-left: 10%;
+  min-width: 100%;
+}
+
+.bgsquare {
+  min-height: 100vh;
+}
+
+.ingresar {
+  position: absolute;
+  right: 0;
+}

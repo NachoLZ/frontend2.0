@@ -1,0 +1,21 @@
+.guardar {
+  bottom: 5px;
+  position: relative;
+  float: left;
+  flex-grow: 1;
+}
+
+.fecha {
+  margin-left: 8%;
+}
+
+.seguro {
+  position: absolute;
+  bottom: 40px;
+  margin-right: 30px;
+  width: 100%;
+}
+
+.graf {
+  margin-left: 40px;
+}

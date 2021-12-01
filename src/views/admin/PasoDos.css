@@ -1,0 +1,25 @@
+.iconosugerencia {
+  float: left;
+  opacity: 25%;
+}
+
+.iconografico {
+  opacity: 40%;
+  float: left;
+}
+
+.infograf {
+  position: absolute;
+  top: 1.5%;
+  left: 65%;
+  font-size: 9pt;
+}
+
+.textcont {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.linkres {
+  color: #0ba8c7;
+}
