@@ -45,7 +45,10 @@ npm start
 
 Then open: http://localhost:3000
 
-📂 Project Structure
+
+## 📂 Project Structure
+
+```bash
 frontend2.0
 ├── public/                  # Static assets
 ├── src/
@@ -57,7 +60,7 @@ frontend2.0
 ├── package.json
 ├── tailwind.config.js       # Tailwind configuration
 └── README.md
-
+```
 
 🔌 Backend Integration
 
