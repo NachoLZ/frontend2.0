@@ -58,6 +58,7 @@ frontend2.0
 ├── tailwind.config.js       # Tailwind configuration
 └── README.md
 
+
 🔌 Backend Integration
 
 This frontend connects to the Price2Be backend APIs to:
